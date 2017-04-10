@@ -1,0 +1,12 @@
+diff a/Index.html b/Index.html	(rejected hunks)
+@@ -1,6 +1,8 @@
+ <html>
+ 
+ 	<body> 
+-		<h1>Git</h1>
++		<header>
++			<h1>Git</h1>
++		</header>
+ 	</body>
+ <html>
+\ No newline at end of file
